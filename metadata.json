@@ -1,0 +1,5 @@
+{
+  "name": "pedro",
+  "description": "An AI-powered studio that generates production-ready bot code. Describe your bot, select your stack, and get Vercel deployment instructions.",
+  "requestFramePermissions": []
+}
